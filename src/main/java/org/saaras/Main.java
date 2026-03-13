@@ -44,7 +44,7 @@ public class Main {
         obj.printString();
          */
 
-
+        /*
         List<Employee> obj=new ArrayList<>();
         obj.add(new Employee(1, "Aman", 22));
         obj.add(new Employee(2, "Varan", 25));
@@ -69,6 +69,11 @@ public class Main {
         for(Employee emp:queue){
             System.out.println((emp));
         }
+         */
+
+        // Inheritance example
+        Vehicle vh=new Vehicle();
+
 
     }
 }
